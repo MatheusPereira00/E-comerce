@@ -1,0 +1,25 @@
+.header {
+    background-color: rgb(255, 255, 255);
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.list-menu {
+    margin-left: 20px;
+}
+
+button  {
+    text-decoration: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-weight: 700;
+        font-size: 1rem;
+        text-transform: uppercase;
+        transition: .5s;
+    }
+
+.list-menu {
+    color: black;
+}
